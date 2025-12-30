@@ -1,4 +1,4 @@
-# 🔐 ISA-Integrated AES: Custom RISC-V Cryptographic Extension
+# 🔐 ISA-Integrated-AES-Custom-RISC-V-Instructions-for-Direct-Cryptographic-Operations
 
 A hardware mini project implementing **AES cryptographic acceleration** using **custom RISC-V ISA extensions**, designed and verified using **Verilog/SystemVerilog**.
 
